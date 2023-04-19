@@ -20,7 +20,24 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/iserhiienko/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/iserhiienko/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iserhiienko&layout=compact&langs_count=8&theme=algolia">
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iserhiienko&langs_count=8)](https://github.com/iserhiienko/github-readme-stats)
+
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=iserhiienko&show_icons=true&theme=gradient"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=iserhiienko&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=iserhiienko&show_icons=true" />
+</picture>
+
 
 <!--
 **ISerhiienko/iserhiienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
